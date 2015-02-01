@@ -1,0 +1,2 @@
+# SPEAKER-RECOGNITION-USING-MFCC-AND-TDA
+In This Project we  propose to build a simple yet complete and representative automatic speaker recognition system, as applied to a voice based biometric system i.e. a voice based access control system. To achieve this, we have first made a comparative study of the MFCC approach with the Time domain approach for recognition by simulating both these techniques using MATLAB and analyzing the consistency of recognition using both the techniques.
